@@ -8,4 +8,10 @@ A python bot to connect and control your Instagram account with
 * Open Instagram and check if the photo is posted
 
 ## Other features
-* 
+* Follow / Unfollow
+* Comment
+* Like
+* Chat
+
+## Documentation
+* https://pypi.org/project/instabot/
